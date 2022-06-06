@@ -1,0 +1,32 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "files.associations": {
+    "*.inc": "c",
+    "lvgl.h": "c",
+    "iot_button.h": "c",
+    "random": "c",
+    "array": "c",
+    "string": "c",
+    "string_view": "c",
+    "future": "c",
+    "system_error": "c",
+    "lv_port_indev.h": "c",
+    "lv_indev.h": "c",
+    "deque": "c",
+    "list": "c",
+    "unordered_map": "c",
+    "unordered_set": "c",
+    "vector": "c",
+    "initializer_list": "c",
+    "esp_timer.h": "c",
+    "start_sntp.h": "c",
+    "*.ipp": "c",
+    "event_groups.h": "c",
+    "sstream": "c",
+    "cerrno": "c"
+  },
+  "idf.portWin": "COM3",
+  "idf.adapterTargetName": "esp32",
+  "cmake.configureOnOpen": false,
+  "idf.flashType": "UART"
+}

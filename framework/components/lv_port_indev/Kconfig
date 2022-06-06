@@ -1,0 +1,16 @@
+menu "Indev settings"
+    config GPIO_LEFT_Button
+        int "GPIO for Left Button"
+        default 27
+
+
+    config GPIO_RIGHT_Button
+        int "GPIO for Right Button"
+        default 33
+
+
+    config GPIO_MIDDLE_Button
+        int "GPIO for Middle Button"
+        default 34
+
+endmenu
