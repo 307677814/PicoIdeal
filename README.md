@@ -4,7 +4,7 @@
 
 基于Netty和json格式的自定义协议物联网云平台（目前实现了基本的数据传输流程和设备接入的管理，平台代码全部开源，并提供一个温湿度计的硬件接入示例，全套的解决方案，欢迎Star⭐️）
 
-项目演示视频：[bilibili]()
+项目演示视频：[bilibili](https://www.bilibili.com/video/BV1mr4y1x7e1)
 
 ## 🍒目录结构
 
