@@ -10,7 +10,7 @@
 
 - cloud 平台后端，采用Spring Boot、JWT、MyBatis、Netty
 - cloud-ui 平台前端，采用Vue、Element-ui、Axios、Echarts
-- framework 旋转太空人主题温湿度计硬件代码，采用乐鑫官方ESP-IDF框架
+- framework 旋转太空人主题温湿度计硬件代码，采用乐鑫官方ESP-IDF框架（IDF版本v4.3.2）
 - hardware 旋转太空人主题温湿度计原理图和PCB，已经开源到了[立创开源硬件平台](https://oshwhub.com/xywang/picoideal)
 
 ## 🍓如何使用
